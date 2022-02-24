@@ -6,12 +6,13 @@ testFancy
 
 ```sh
 npm install fancy
+npm install https://github.com/Sivakrishna644/FancyLibrary
 ```
 
 ## Usage
 
 ```js
-import { multiply } from "fancy";
+import { multiply } from 'fancy';
 
 // ...
 

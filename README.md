@@ -5,7 +5,7 @@ testFancy
 ## Installation
 
 ```sh
-npm install fancy
+
 npm install https://github.com/Sivakrishna644/FancyLibrary
 ```
 
